@@ -2,7 +2,7 @@
 
 i=1
 
-while [ $i -le 5 ]
+while [ $i -le 10 ]
 do
   echo "The value of i is: $i"
   let "i++"
